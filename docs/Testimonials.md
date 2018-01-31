@@ -13,3 +13,7 @@ Both developers and end-users like the simplicity and usability of GlobalPlatfor
 ----
 
 >  I had to rely on GlobalPlatform Card in general for past smart card projects since GP is the defacto standard for managing Java Card Applets. GPShell was the closest implementation that was somewhat open source and command-line based. I liked GlobalPlatformPro design even more and it feels like a POSIX classic (i.e. small, simple and composable and does GP operations very well). It's the tool I wished I had the time to build myself. Definitely an indespensable smart card tool moving forward. 
+
+----
+
+>  GlobalPlatform is very useful tool to understand global platform practically for smart card developers especially. Thanks. - Bondhan
